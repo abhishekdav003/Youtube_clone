@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3b3453ab-2426-4372-a94f-8500f021377f)![Screenshot 2025-03-25 114437](https://github.com/user-attachments/assets/3729ceaf-3350-4b57-b1d1-d7b46c70c0dc)
+![image](https://github.com/user-attachments/assets/3b3453ab-2426-4372-a94f-8500f021377f)
 <h1 align="center">🎬 YouTube Clone — React + Tailwind 🎬</h1>
 
 <p align="center">
